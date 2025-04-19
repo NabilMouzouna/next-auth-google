@@ -45,12 +45,3 @@ This project uses Next.js 15 with NextAuth.js and Google as the authentication p
 - Keep NEXTAUTH_SECRET safe and secure.
 - Consider using HTTPS in production environments.
 
-## 🧪 Useful Commands
-
-- Install dependencies: npm install  
-- Run dev server: npm run dev  
-- Generate secret: openssl rand -base64 32
-
----
-
-Happy hacking! 🚀
